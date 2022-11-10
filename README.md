@@ -1,0 +1,1 @@
+Projeto de uma aplicação web responsiva de uma empresa fictícia da advocacia Pearson Hardman, da série de TV Suits, utilizando conhecimentos de HTML, CSS e JavaScript com a orientação da plataforma "Hora de Codar"
